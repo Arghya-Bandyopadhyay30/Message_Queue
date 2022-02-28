@@ -1,0 +1,2 @@
+#Message Queue
+Create a message queue. One process will take name and roll number of 'N' students and send those to message queue. Second process will read the names, sort those and send back to message queue; third process will do the same on roll numbers. Then first process will read the entire data and print.
